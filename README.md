@@ -3,11 +3,6 @@
 </h2>
 
 
-## Give a Star! :star:
-
-If you like or are using this project please give it a star. Thanks!
-
-
 ## JS Code for Callbacks 
 
 ```c#
@@ -60,4 +55,7 @@ fetchUsers();
 ### Traversy Media on YouTube: Async JS Crash Course - Callbacks, Promises, Async Await
 [![Traversy Media on YouTube: Async JS Crash Course - Callbacks, Promises, Async Await](https://i.ytimg.com/vi/PoRJizFvM7s/hqdefault_81800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEUTFiqupglxvPMiIe2zyIyNFm0w)](https://youtu.be/PoRJizFvM7s?si=cDF9iqnl1PNj6z7o)
 
+
+## Give a Star! :star:
+If you like or are using this project, please give it a star. Thanks!
 

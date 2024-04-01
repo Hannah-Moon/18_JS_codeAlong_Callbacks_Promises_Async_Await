@@ -57,6 +57,7 @@ fetchUsers();
 ```
 
 ## Code Alonged YouTube Video
+Title="Async JS Crash Course - Callbacks, Promises, Async Await"
+[![Traversy Media on YouTube: Async JS Crash Course - Callbacks, Promises, Async Await](https://i.ytimg.com/vi/PoRJizFvM7s/hqdefault_81800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEUTFiqupglxvPMiIe2zyIyNFm0w)](https://youtu.be/PoRJizFvM7s?si=cDF9iqnl1PNj6z7o)
 
-<iframe width="1440" height="534" src="https://www.youtube.com/embed/PoRJizFvM7s" title="Async JS Crash Course - Callbacks, Promises, Async Await" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

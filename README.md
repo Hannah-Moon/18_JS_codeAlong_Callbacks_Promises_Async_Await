@@ -36,7 +36,6 @@ createPost({ title: 'Post Three', body: 'This is post three'}, getPosts);
 
 ## Promises: Async / Await / Fetch
 
-To extend your own guards, you can do the following:
 
 ```c#
 async function fetchUsers() {
